@@ -32,7 +32,7 @@ function preload()
   bubbleFX = loadSound("Sounds/BubbleFX.mp3");
   bubbleImg = loadImage("Game_Sprites/BubbleImg.png");
   ImpactFX = loadSound("Sounds/Impact.mp3");
-  checkpointFX = loadSound("sounds/checkpoint.mp3");
+  checkpointFX = loadSound("Sounds/checkpoint.mp3");
   failFX = loadSound("sounds/fail.mp3");
 
   // background images
